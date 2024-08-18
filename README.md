@@ -42,10 +42,17 @@ ReportGenie/
 2. **Set up the virtual environment**:
    ```bash
    python3 -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   ```
+   **for Linux**
+   ```bash
+   source venv/bin/activate
+   ```
+   **for windows**
+   ```bash
+   .venv\Scripts\activate
    ```
 
-3. **Install dependencies**:
+4. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
