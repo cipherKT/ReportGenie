@@ -35,7 +35,7 @@ ReportGenie/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ReportGenie.git
+   git clone https://github.com/cipherKT/ReportGenie.git
    cd ReportGenie
    ```
 
